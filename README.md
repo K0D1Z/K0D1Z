@@ -14,14 +14,28 @@ As a future engineer, I focus on building solid mathematical foundations, master
 
 ---
 
-### 📫 Connect with me
+### Languages & Tools
 
-<a href="https://www.linkedin.com/in/konrad-zatorski/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,sklearn,opencv&theme=dark" />
 </a>
-&nbsp;
-<a href="mailto:kodiz2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" />
 </a>
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,linux,md&theme=dark" />
+</a>
+
+---
+
+### Connect with me
+
+<a href="https://www.linkedin.com/in/konrad-zatorski/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a> <a href="mailto:kodiz2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
 
 </div>
