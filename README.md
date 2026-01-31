@@ -1,19 +1,27 @@
-# Hi there, I'm Konrad!
-
-I am a **Computer Science and Intelligent Systems** student at **AGH University of Krakow**.
-
-As a future engineer, I focus on building solid mathematical foundations, mastering algorithms, and exploring practical applications of Artificial Intelligence. I am a member of the AI ​​Med academic group, whose activities focus on the use of AI in medicine.
-
-### GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K0D1Z&show_icons=true&theme=dark&hide_border=true&locale=en" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0D1Z&layout=compact&theme=dark&hide_border=true&locale=en" height="150" alt="languages" />
-</div>
+
+# Hi there, I'm Konrad! 👋
+
+### Computer Science and Intelligent Systems Student @ AGH UST
+
+As a future engineer, I focus on building solid mathematical foundations, mastering algorithms, and exploring practical applications of Artificial Intelligence.
+
+<br>
+
+🚀 **Member of the AI Med academic group**
+<br>
+*Focusing on the application of Artificial Intelligence in medicine.*
 
 ---
 
-### Connect with me
+### 📫 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/konrad-zatorski/)
-[Email](kodiz2005@gmail.com)
+<a href="https://www.linkedin.com/in/konrad-zatorski/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:kodiz2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+</div>
