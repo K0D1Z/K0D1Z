@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Konrad! 👋
+# Hi there, I'm Konrad!
 
 ### Computer Science and Intelligent Systems Student @ AGH UST
 
@@ -8,7 +8,7 @@ As a future engineer, I focus on building solid mathematical foundations, master
 
 <br>
 
-🚀 **Member of the AI Med academic group**
+**Member of the AI Med academic group**
 <br>
 *Focusing on the application of Artificial Intelligence in medicine.*
 
