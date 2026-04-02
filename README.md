@@ -8,34 +8,41 @@ As a future engineer, I focus on building solid mathematical foundations, master
 
 <br>
 
-**Member of the AI Med academic group**
+**Member of the AI Med Student Research Group**
 <br>
 *Focusing on the application of Artificial Intelligence in medicine.*
+
+---
+
+<br>
+
+<a href="https://leetcode.com/u/k0d1z">
+  <img src="https://leetcard.jacoblin.cool/k0d1z?theme=dark&font=Oswald&ext=activity" alt="LeetCode Stats" />
+</a>
+
+<br><br>
+
+<a href="https://www.hackerrank.com/kodiz2005">
+  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
+</a>
 
 ---
 
 ### Languages & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,opencv&theme=dark" />
-</a>
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" />
-</a>
-
-<br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,linux,md&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn,opencv,html,css,js,php,git,github,mysql,linux,md&theme=dark&perline=6" alt="Tech Stack" />
 </a>
 
 ---
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/konrad-zatorski/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a> <a href="mailto:kodiz2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+<a href="https://www.linkedin.com/in/konrad-zatorski/">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+</a> 
+<a href="mailto:kodiz2005@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+</a>
 
 </div>
