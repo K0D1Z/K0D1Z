@@ -10,7 +10,7 @@ As a future engineer, I focus on building solid mathematical foundations, master
 
 **Member of the AI Med and AGH Analytica Student Research Groups**
 <br>
-*Focusing on the application of Artificial Intelligence in medicine and finances.*
+*Focusing on the application of Artificial Intelligence in medicine and finance.*
 
 ---
 
