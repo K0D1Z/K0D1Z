@@ -44,16 +44,9 @@ As a future engineer, I focus on building solid mathematical foundations, master
 <a href="https://wakatime.com/@d13921c7-5cb0-4c50-b93b-4ca82284fb25"><img src="https://wakatime.com/badge/user/d13921c7-5cb0-4c50-b93b-4ca82284fb25.svg" alt="WakaTime" width="250" /></a>
 
 ---
-### GitHub Analytics & Trophies
+### GitHub Analytics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=K0D1Z&theme=dark&hide_border=true)](https://github.com/K0D1Z)
-
-
-<p align="center">
-  <a href="https://github.com/K0D1Z">
-    <img src="https://github-profile-trophy.vercel.app/?username=K0D1Z&amp;theme=dracula&amp;no-frame=true&amp;row=1&amp;column=7" alt="Trophies" />
-  </a>
-</p>
 
 ---
 
