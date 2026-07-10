@@ -16,7 +16,7 @@ As a future engineer, I focus on building solid mathematical foundations, master
 
 ### Currently
 
-> **Learning:** Java, Kotlin, and advancing my skills in ML/DL & data science libraries (Pandas, NumPy, Matplotlib, Scikit-Learn, PyTorch).  
+> **Learning:** Java, TypeScript, and advancing my skills in ML/DL & data science libraries (Pandas, NumPy, Matplotlib, Scikit-Learn, PyTorch).  
 > **Working on:** A large-scale quantitative project within AGH Analytica. Building an advanced financial news scraper for LLM-based market predictions, combined with a core market analyzer processing raw transactional data.
 
 ---
