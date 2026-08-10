@@ -34,22 +34,11 @@ As a future engineer, I focus on building solid mathematical foundations, master
 <p align="center">
   <a href="https://www.kaggle.com/konradzatorski"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="https://huggingface.co/k0d1z"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-  <a href="https://www.hackerrank.com/kodiz2005"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
-
-<a href="https://leetcode.com/u/k0d1z"><img src="https://leetcard.jacoblin.cool/k0d1z?theme=dark&font=Oswald&ext=activity" alt="LeetCode Stats" /></a>
-
-<br><br>
 
 <a href="https://wakatime.com/@d13921c7-5cb0-4c50-b93b-4ca82284fb25"><img src="https://wakatime.com/badge/user/d13921c7-5cb0-4c50-b93b-4ca82284fb25.svg" alt="WakaTime" width="250" /></a>
 
 ---
-### GitHub Analytics
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=K0D1Z&theme=dark&hide_border=true)](https://github.com/K0D1Z)
-
----
-
 ### Connect with me
 
 <p align="center">
