@@ -1,50 +1,19 @@
 <div align="center">
 
-# Hi there, I'm Konrad!
+![Terminal Profile Animation](output.gif)
 
-### Computer Science and Intelligent Systems Student @ AGH UST
+<br><br>
 
-As a future engineer, I focus on building solid mathematical foundations, mastering algorithms, and exploring practical applications of Artificial Intelligence.
+<a href="https://www.linkedin.com/in/konrad-zatorski/"><img src="https://img.shields.io/badge/-LinkedIn-c58cec?style=for-the-badge" alt="LinkedIn" /></a>&nbsp;
+<a href="https://gitlab.com/K0D1Z"><img src="https://img.shields.io/badge/-GitLab-c58cec?style=for-the-badge" alt="GitLab" /></a>&nbsp;
+<a href="https://www.kaggle.com/konradzatorski"><img src="https://img.shields.io/badge/-Kaggle-c58cec?style=for-the-badge" alt="Kaggle" /></a>&nbsp;
+<a href="https://huggingface.co/k0d1z"><img src="https://img.shields.io/badge/-Hugging_Face-c58cec?style=for-the-badge" alt="Hugging Face" /></a>&nbsp;
+<a href="mailto:kodiz2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c58cec?style=for-the-badge" alt="Email" /></a>
 
-<br>
+<br><br>
 
-**Member of the AI Med and AGH Analytica Student Research Groups**
-<br>
-*Focusing on the application of Artificial Intelligence in medicine and finance.*
-
----
-
-### Currently
-
-> **Learning:** Java, TypeScript, and advancing my skills in ML/DL & data science libraries (Pandas, NumPy, Matplotlib, Scikit-Learn, PyTorch).  
-> **Working on:** A large-scale quantitative project within AGH Analytica. Building an advanced financial news scraper for LLM-based market predictions, combined with a core market analyzer processing raw transactional data.
-
----
-
-### Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,kotlin,java,html,css,js,postgres,mysql,linux,git&theme=dark" alt="Tech Stack" />
-</p>
-
----
-
-### Profiles & Activity
-
-<p align="center">
-  <a href="https://www.kaggle.com/konradzatorski"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://huggingface.co/k0d1z"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-</p>
-
-<a href="https://wakatime.com/@d13921c7-5cb0-4c50-b93b-4ca82284fb25"><img src="https://wakatime.com/badge/user/d13921c7-5cb0-4c50-b93b-4ca82284fb25.svg" alt="WakaTime" width="250" /></a>
-
----
-### Connect with me
-
-<p align="center">
-  <a href="https://gitlab.com/K0D1Z"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="GitLab" /></a>
-  <a href="https://www.linkedin.com/in/konrad-zatorski/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a> 
-  <a href="mailto:kodiz2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
-</p>
+<a href="https://wakatime.com/@d13921c7-5cb0-4c50-b93b-4ca82284fb25">
+  <img src="https://wakatime.com/badge/user/d13921c7-5cb0-4c50-b93b-4ca82284fb25.svg" alt="WakaTime Stats" width="220" />
+</a>
 
 </div>
