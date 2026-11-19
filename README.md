@@ -28,12 +28,8 @@
 <div align="center">
 
 <a href="https://leetcode.com/u/k0d1z/">
-  <img src="https://leetcard.jacoblin.cool/k0d1z?theme=nord&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="580" />
+  <img src="https://leetcard.jacoblin.cool/k0d1z?theme=nord&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" width="720" />
 </a>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=K0D1Z&bg_color=2e3440&color=d8dee9&line=3678b6&point=88c0d0&area=true&hide_border=true" alt="Contribution Graph" width="580" />
 
 <br><br>
 
