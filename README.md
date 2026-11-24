@@ -9,7 +9,7 @@
   ► <strong>AI</strong> · <strong>Machine Learning</strong> · <strong>Quantitative Finance</strong><br>
   ► CS &amp; Intelligent Systems <a href="https://www.agh.edu.pl/"><strong>@AGH UST</strong></a> · Lead <a href="https://analytica.agh.edu.pl/"><strong>@AGH Analytica</strong></a> · Researcher <a href="https://aimed.agh.edu.pl/"><strong>@AI Med</strong></a><br>
   ► Core Stack: <code>Python</code> · <code>C++</code> · <code>Java</code> · <code>SQL</code><br>
-  ► Currently: <code>OCaml</code> · <code>PostgreSQL</code>
+  ► Currently Mastering: <code>DS & Algorithms</code> · <code>ML & DL</code> · <code>Python Quant Libraries</code>
 </p>
 
 <br>
