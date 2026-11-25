@@ -16,8 +16,8 @@
 
 <p>
   ► <strong>Projects</strong><br>
+  ↳ <a href="https://github.com/AGHAnalytica/MERCATOR"><strong>AGH Analytica MERCATOR</strong></a> — Market news sentiment analysis pipeline and live testing environment.<br>
   ↳ <a href="https://github.com/K0D1Z/sp500-quantitative-dataset"><strong>SP500 Quantitative Dataset</strong></a> — Automated 2015–2025 REST API ETL pipeline (160+ downloads).<br>
-  ↳ <a href="https://github.com/AGHAnalytica/NLP_predictor"><strong>NLP Predictor</strong></a> — Market news sentiment analysis pipeline and live testing environment.<br>
   ↳ <a href="https://github.com/AI-MED-AGH/mammography-delta"><strong>Mammography Delta</strong></a> — Medical imaging mask preprocessing and radiomic feature selection.<br>
   ↳ <a href="https://github.com/K0D1Z/handwritten-digits-recognizer"><strong>Handwritten Digits Recognizer</strong></a> — CNN tuning and augmentation for the 2026 AGH Open Days.<br>
   ↳ <a href="https://github.com/K0D1Z/cpp-chess"><strong>C++ Console Chess Engine</strong></a> — Terminal-based chess engine built in modern C++.
